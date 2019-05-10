@@ -44,11 +44,11 @@ $ `glowpro install brew`
 
 ## FAQ
 
-### What does it do ?
+### What does it do ?
 
 A Google Search for your query filtering for stackoverflow.com, goes there, selects the first code block and prints it. Hopefully it will be from the accepted answer. We drop the complex machine learning jargon on the description to make it sound cool but the code is still [very simple to read](/blob/master/index.js) ;)
 
-### Why is it so slow ?
+### Why is it so slow ?
 
 I'd like to see you opening a browser typing google.com clicking on the first stackoverflow answer going there and copying the first code block faster than this :P.
 
