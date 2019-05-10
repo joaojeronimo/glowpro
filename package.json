@@ -1,0 +1,22 @@
+{
+  "name": "glowpro",
+  "version": "1.0.0",
+  "description": "",
+  "author": {
+    "name": "João Jerónimo",
+    "url": "https://github.com/joaojeronimo"
+  },
+  "engines": {
+    "node" : ">=8"
+  },
+  "main": "index.js",
+  "bin": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "github:joaojeronimo/glowpro"
+  },
+  "dependencies": {
+    "puppeteer": "^1.15.0"
+  }
+}
