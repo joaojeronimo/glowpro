@@ -48,7 +48,7 @@ $ `glowpro install brew`
 
 ### What does it do ?
 
-A Google Search for your query filtering for stackoverflow.com, goes there, selects the first code block and prints it. Hopefully it will be from the accepted answer. We drop the complex machine learning jargon on the description to make it sound cool but the code is still [very simple to read](/blob/master/index.js) ;)
+A Google Search for your query filtering for stackoverflow.com, goes there, selects the first code block and prints it. Hopefully it will be from the accepted answer. We drop the complex machine learning jargon on the description to make it sound cool but the code is still [very simple to read](index.js) ;)
 
 ### Why is it so slow ?
 
